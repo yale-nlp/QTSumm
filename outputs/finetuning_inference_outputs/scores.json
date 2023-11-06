@@ -1,0 +1,62 @@
+[
+    {
+        "model_name": "omnitab_test_predictions",
+        "sacreBLEU": 22.444280094086167,
+        "Rouge-L": 0.4235657038011989,
+        "METEOR": 0.44730233189145774,
+        "BERTScore": 0.9100761148173203,
+        "TAPAS": 0.8024118542671204,
+        "AutoACU": 0.5309771198869194,
+        "Prediction Length": 59.54638218923933
+    },
+    {
+        "model_name": "tapex_test_predictions",
+        "sacreBLEU": 23.098987346660916,
+        "Rouge-L": 0.4210443934078655,
+        "METEOR": 0.4559021160379111,
+        "BERTScore": 0.9061966950353754,
+        "TAPAS": 0.8775510191917419,
+        "AutoACU": 0.5204891703767159,
+        "Prediction Length": 70.09833024118738
+    },
+    {
+        "model_name": "reastap_test_predictions",
+        "sacreBLEU": 22.488959915591664,
+        "Rouge-L": 0.4190639262542225,
+        "METEOR": 0.4428020301282081,
+        "BERTScore": 0.9080851050387508,
+        "TAPAS": 0.8061224818229675,
+        "AutoACU": 0.5193906156501711,
+        "Prediction Length": 61.43599257884972
+    },
+    {
+        "model_name": "bart_test_predictions",
+        "sacreBLEU": 21.17422700715228,
+        "Rouge-L": 0.40634413608958037,
+        "METEOR": 0.42924716153622716,
+        "BERTScore": 0.9060907920680816,
+        "TAPAS": 0.7708719968795776,
+        "AutoACU": 0.479643146158412,
+        "Prediction Length": 60.139146567717994
+    },
+    {
+        "model_name": "flan_test_predictions",
+        "sacreBLEU": 19.90918341611554,
+        "Rouge-L": 0.3980311787661084,
+        "METEOR": 0.42541650705030915,
+        "BERTScore": 0.8979917770192885,
+        "TAPAS": 0.8385899662971497,
+        "AutoACU": 0.46287797192709457,
+        "Prediction Length": 74.10667903525047
+    },
+    {
+        "model_name": "t5_test_predictions",
+        "sacreBLEU": 20.25575421243203,
+        "Rouge-L": 0.3873627433414124,
+        "METEOR": 0.40166480939346266,
+        "BERTScore": 0.8960152248504653,
+        "TAPAS": 0.7513914704322815,
+        "AutoACU": 0.4347967351087004,
+        "Prediction Length": 61.76345083487941
+    }
+]

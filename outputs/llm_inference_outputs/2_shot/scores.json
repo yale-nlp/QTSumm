@@ -1,0 +1,72 @@
+[
+    {
+        "model_name": "gpt-4",
+        "sacreBLEU": 19.528530652485582,
+        "Rouge-L": 0.40438649415850103,
+        "METEOR": 0.5107082394520686,
+        "BERTScore": 0.911084274248201,
+        "TAPAS": 0.9332096576690674,
+        "AutoACU": 0.6101624748750775,
+        "Prediction Length": 90.13543599257885
+    },
+    {
+        "model_name": "gpt-3.5-turbo",
+        "sacreBLEU": 19.98005996949344,
+        "Rouge-L": 0.39919984445143863,
+        "METEOR": 0.5004165624660265,
+        "BERTScore": 0.9094649452667731,
+        "TAPAS": 0.932282030582428,
+        "AutoACU": 0.5619331865272518,
+        "Prediction Length": 89.76994434137292
+    },
+    {
+        "model_name": "llama-2-70b-chat-awq",
+        "sacreBLEU": 18.95349078012245,
+        "Rouge-L": 0.3794302276599032,
+        "METEOR": 0.4637381654666947,
+        "BERTScore": 0.9041211806887377,
+        "TAPAS": 0.8729128241539001,
+        "AutoACU": 0.4911757016032658,
+        "Prediction Length": 87.26159554730984
+    },
+    {
+        "model_name": "lemur-70b-chat-v1-awq",
+        "sacreBLEU": 14.999533913741175,
+        "Rouge-L": 0.3196453856740735,
+        "METEOR": 0.3847947290847067,
+        "BERTScore": 0.8841223600069976,
+        "TAPAS": 0.8163265585899353,
+        "AutoACU": 0.40630648399708386,
+        "Prediction Length": 82.66604823747682
+    },
+    {
+        "model_name": "llama-2-7b-chat-hf",
+        "sacreBLEU": 13.976392652759792,
+        "Rouge-L": 0.3315246365592643,
+        "METEOR": 0.4231725924279328,
+        "BERTScore": 0.8896501513270588,
+        "TAPAS": 0.7792207598686218,
+        "AutoACU": 0.39573607564055413,
+        "Prediction Length": 99.29777365491651
+    },
+    {
+        "model_name": "mistral-7b-instruct-v0.1",
+        "sacreBLEU": 14.933576470929541,
+        "Rouge-L": 0.3273471469389824,
+        "METEOR": 0.40665476587410515,
+        "BERTScore": 0.8909407628489336,
+        "TAPAS": 0.728200376033783,
+        "AutoACU": 0.3840073494098956,
+        "Prediction Length": 86.03061224489795
+    },
+    {
+        "model_name": "llama-2-13b-chat-hf",
+        "sacreBLEU": 17.48963948714462,
+        "Rouge-L": 0.3124860870548054,
+        "METEOR": 0.37283263199278077,
+        "BERTScore": 0.8856895322149451,
+        "TAPAS": 0.8116883039474487,
+        "AutoACU": 0.37071357351418494,
+        "Prediction Length": 72.61595547309832
+    }
+]
